@@ -16,7 +16,7 @@
     "fuzzaldrin": "^2.1.0"
   },
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^0.4.5",
     "grunt-apm": "^1.0.1",
     "grunt-coffee-jshint": "^0.3.0",
     "grunt-contrib-watch": "^1.0.0",
